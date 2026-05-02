@@ -1,0 +1,70 @@
+div[data-testid="metric-container"] {
+    background: rgba(15, 23, 42, 0.52);
+    backdrop-filter: blur(18px);
+    border: 1px solid rgba(148,163,184,0.22);
+    padding: 22px;
+    border-radius: 24px;
+    box-shadow: 0 18px 45px rgba(0,0,0,0.28);
+}
+
+div[data-testid="metric-container"] label {
+    color: #cbd5e1 !important;
+    font-weight: 800;
+}
+
+div[data-testid="metric-container"] div {
+    color: #ffffff !important;
+    font-size: 34px;
+    font-weight: 900;
+}
+
+.dashboard-subtitle {
+    color: #bae6fd;
+    font-size: 17px;
+    margin-top: -8px;
+    margin-bottom: 22px;
+}
+
+.section-heading {
+    font-size: 28px;
+    font-weight: 900;
+    color: #ffffff;
+    margin-top: 30px;
+    margin-bottom: 18px;
+}
+
+.insight-card {
+    background: rgba(15, 23, 42, 0.55);
+    backdrop-filter: blur(22px);
+    -webkit-backdrop-filter: blur(22px);
+    border: 1px solid rgba(148,163,184,0.22);
+    border-radius: 28px;
+    padding: 26px;
+    margin-top: 18px;
+    box-shadow: 0 20px 55px rgba(0,0,0,0.30);
+}
+
+.insight-card h3 {
+    color: #f8fafc;
+    margin-bottom: 12px;
+}
+
+.insight-card li {
+    margin-bottom: 9px;
+    color: #dbeafe;
+}
+
+div[data-testid="stDataFrame"] {
+    border-radius: 20px;
+    overflow: hidden;
+    border: 1px solid rgba(148,163,184,0.22);
+}
+
+div[data-testid="stPlotlyChart"] {
+    background: rgba(15,23,42,0.38);
+    backdrop-filter: blur(16px);
+    border: 1px solid rgba(148,163,184,0.12);
+    border-radius: 24px;
+    padding: 10px;
+    box-shadow: 0 18px 45px rgba(0,0,0,0.25);
+}

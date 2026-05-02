@@ -1,0 +1,141 @@
+category,product_name,total_orders,total_revenue_usd,avg_price,avg_rating,return_rate,avg_discount_pct,avg_delivery_days
+Automotive,Air Freshener,87,10543.38,73.61,3.95,7.0,4.54,4.66
+Automotive,Car Phone Mount,86,10950.18,73.82,3.99,12.0,5.76,4.08
+Automotive,Car Vacuum Cleaner,73,8588.32,71.15,4.11,7.0,7.53,4.38
+Automotive,Dashcam 4K,79,9402.79,68.25,4.06,6.0,4.18,4.2
+Automotive,Jump Starter Pack,68,8338.79,78.06,4.0,10.0,4.63,4.03
+Automotive,Seat Covers Universal,67,8436.91,65.08,3.92,9.0,4.4,4.24
+Automotive,Steering Wheel Cover,73,8197.79,64.02,3.97,11.0,7.47,4.11
+Automotive,Tire Inflator,64,7845.98,66.38,4.11,8.0,5.55,4.16
+Automotive,USB Car Charger,69,8572.56,70.09,4.02,7.0,5.36,4.29
+Automotive,Windshield Cleaner,54,7873.24,71.74,3.99,9.0,4.07,3.94
+Beauty & Personal Care,Electric Toothbrush,148,9800.96,32.39,4.02,11.0,5.27,4.17
+Beauty & Personal Care,Face Wash Gel,178,11015.82,31.36,3.91,10.0,4.35,4.07
+Beauty & Personal Care,Hair Dryer Pro,155,10357.94,33.95,4.02,7.0,4.74,4.62
+Beauty & Personal Care,Hyaluronic Acid Moisturizer,172,10072.78,31.92,3.95,7.0,6.25,3.7
+Beauty & Personal Care,Lip Balm Set,157,9129.76,30.45,4.08,9.0,5.7,4.0
+Beauty & Personal Care,Nail Kit,141,7194.81,30.44,4.05,6.0,5.92,4.16
+Beauty & Personal Care,Perfume Floral,156,9236.07,31.73,3.99,8.0,5.13,4.15
+Beauty & Personal Care,Shampoo Argan Oil,169,10339.54,32.9,4.0,8.0,6.01,4.23
+Beauty & Personal Care,Sunscreen SPF50,157,9068.98,29.83,3.98,6.0,4.68,3.88
+Beauty & Personal Care,Vitamin C Serum,167,10258.88,32.26,3.96,9.0,5.9,3.86
+Books,Atomic Habits,179,8414.57,25.25,3.95,9.0,6.48,4.06
+Books,Clean Code,178,8112.6,26.19,3.94,6.0,6.32,4.15
+Books,Deep Work,189,8837.01,26.02,3.97,6.0,5.69,4.2
+Books,Python Crash Course,193,9076.18,25.1,4.07,10.0,5.31,4.04
+Books,System Design Interview,178,9714.21,27.19,4.02,7.0,5.59,4.25
+Books,The Alchemist,188,9243.91,25.58,4.0,6.0,5.19,3.99
+Books,The Lean Startup,163,8241.57,26.26,4.09,10.0,6.32,4.86
+Books,The Pragmatic Programmer,178,8396.55,25.02,4.02,6.0,5.25,3.69
+Books,Thinking Fast and Slow,203,10273.38,27.19,4.01,10.0,5.25,4.49
+Books,Zero to One,199,10018.09,24.92,3.98,15.0,5.83,4.17
+Clothing & Apparel,Casual Sneakers,347,38190.18,62.08,3.9,8.0,6.18,4.12
+Clothing & Apparel,Classic White Tee,395,45309.64,61.24,4.03,7.0,5.41,4.32
+Clothing & Apparel,Formal Dress Shirt,388,44926.5,63.48,4.02,7.0,6.88,4.17
+Clothing & Apparel,Hoodie Pullover,357,39357.54,58.39,4.04,10.0,6.65,4.3
+Clothing & Apparel,Leather Belt,377,41344.3,62.23,4.06,7.0,5.54,4.26
+Clothing & Apparel,Running Shoes,379,39912.65,59.41,4.02,8.0,5.49,4.2
+Clothing & Apparel,Slim Fit Jeans,384,44074.6,60.28,3.98,9.0,5.69,4.07
+Clothing & Apparel,Sports Socks 6-Pack,389,45603.36,60.77,4.06,7.0,5.44,4.22
+Clothing & Apparel,Winter Jacket,376,44997.8,59.53,4.06,8.0,5.09,4.47
+Clothing & Apparel,Yoga Pants,356,40466.25,59.74,4.04,6.0,5.83,3.98
+Electronics,Bluetooth Speaker,409,105491.08,140.99,4.03,9.0,5.28,4.07
+Electronics,Gaming Mouse RGB,430,103015.45,138.95,3.99,10.0,4.94,4.23
+Electronics,LED Desk Lamp,409,100458.36,135.44,4.01,8.0,5.48,4.18
+Electronics,Mechanical Keyboard,411,105529.52,134.71,3.93,8.0,5.44,4.26
+Electronics,Portable Charger 20000mAh,466,124113.88,141.33,3.96,7.0,6.13,4.34
+Electronics,Smart Plug 4-Pack,448,107178.44,135.76,3.93,9.0,5.92,4.12
+Electronics,Smart Watch Series 5,423,110620.64,135.64,3.99,10.0,5.73,4.09
+Electronics,USB-C Hub,416,107686.96,143.34,4.02,8.0,4.95,4.12
+Electronics,Webcam 4K,420,108639.64,138.99,4.05,8.0,5.9,4.1
+Electronics,Wireless Earbuds Pro,424,109841.15,139.27,3.94,8.0,5.34,4.19
+Food & Grocery,Coffee Beans 1kg,153,5997.59,20.88,3.96,10.0,4.28,4.15
+Food & Grocery,Dark Chocolate 85%,137,5401.08,20.34,4.03,13.0,6.17,4.16
+Food & Grocery,Energy Bars 12-Pack,125,4754.22,20.25,3.94,7.0,5.48,4.5
+Food & Grocery,Honey Raw Organic,134,5209.91,20.0,4.01,7.0,5.6,4.16
+Food & Grocery,Matcha Powder,144,6437.75,22.11,3.95,9.0,5.45,4.14
+Food & Grocery,Mixed Nuts 500g,124,4891.58,20.45,4.18,8.0,6.37,4.14
+Food & Grocery,Olive Oil Extra Virgin,144,5616.01,20.69,3.98,12.0,6.11,4.28
+Food & Grocery,Organic Green Tea,151,6054.67,20.96,4.06,11.0,5.66,3.97
+Food & Grocery,Protein Powder Vanilla,145,6028.57,21.07,3.95,5.0,5.1,4.22
+Food & Grocery,Quinoa 2kg,136,5273.71,21.1,4.11,8.0,5.26,4.05
+Health & Wellness,Ashwagandha Extract,131,6330.53,25.04,4.05,12.0,5.57,4.21
+Health & Wellness,CBD Gummies,119,5648.25,26.18,3.97,3.0,7.02,4.12
+Health & Wellness,Collagen Peptides,122,6583.03,26.53,4.06,7.0,6.76,4.28
+Health & Wellness,Magnesium Glycinate,98,4457.61,25.46,3.99,6.0,6.48,4.09
+Health & Wellness,Melatonin 5mg,99,4123.83,25.61,4.1,7.0,6.21,3.92
+Health & Wellness,Multivitamin Daily,107,5585.7,25.07,4.01,13.0,5.05,4.27
+Health & Wellness,Omega-3 Fish Oil,113,5735.05,26.22,4.05,9.0,5.4,3.6
+Health & Wellness,Probiotics 50B,120,6493.47,26.68,4.12,8.0,4.38,4.31
+Health & Wellness,Vitamin D3 5000IU,123,5759.2,25.1,4.09,9.0,6.42,4.31
+Health & Wellness,Zinc Lozenges,109,5042.83,25.02,3.81,12.0,5.23,4.47
+Home & Kitchen,Air Fryer 5L,293,39583.37,78.09,3.97,7.0,5.31,4.27
+Home & Kitchen,Blender Pro,272,40405.57,78.14,4.1,11.0,5.28,4.26
+Home & Kitchen,Coffee Maker Drip,298,44889.41,81.1,4.07,10.0,5.44,4.08
+Home & Kitchen,Electric Kettle,296,39190.11,78.13,4.09,9.0,5.79,4.38
+Home & Kitchen,Knife Set 8pc,257,36964.52,80.13,4.04,10.0,5.27,3.85
+Home & Kitchen,Mattress Topper,289,43020.57,77.12,3.93,7.0,6.63,4.02
+Home & Kitchen,Non-stick Pan,291,39703.08,75.95,3.97,11.0,6.15,4.27
+Home & Kitchen,Shower Curtain,294,41822.48,80.23,3.99,11.0,6.05,4.21
+Home & Kitchen,Storage Containers,303,41862.75,78.38,3.99,9.0,5.4,4.11
+Home & Kitchen,Wall Clock Modern,294,45707.09,77.29,4.04,9.0,6.58,4.27
+Jewelry & Accessories,Charm Bracelet,80,13220.82,77.76,4.23,9.0,7.75,4.42
+Jewelry & Accessories,Leather Wallet,75,10498.34,73.68,4.05,9.0,6.6,4.09
+Jewelry & Accessories,Minimalist Watch,94,11942.56,79.04,4.03,7.0,5.8,4.16
+Jewelry & Accessories,Phone Case Designer,89,12529.67,81.59,4.05,7.0,7.25,3.84
+Jewelry & Accessories,Ring Set 5pc,101,17197.42,81.66,3.98,9.0,6.04,4.47
+Jewelry & Accessories,Silk Scarf,89,12901.75,78.11,3.71,8.0,6.07,4.46
+Jewelry & Accessories,Sterling Silver Necklace,93,12708.63,76.58,4.03,8.0,5.97,4.34
+Jewelry & Accessories,Stud Earrings Gold,101,16067.0,83.46,3.88,11.0,5.0,4.44
+Jewelry & Accessories,Sunglasses UV400,87,13250.56,78.81,3.93,5.0,7.47,4.62
+Jewelry & Accessories,Tote Bag Canvas,102,17344.61,90.1,4.01,11.0,5.1,3.85
+Office Supplies,Desk Organizer,65,11129.12,93.47,4.17,8.0,6.0,4.18
+Office Supplies,Ergonomic Chair,65,12036.73,105.39,4.03,15.0,3.85,3.97
+Office Supplies,File Folders 50pk,67,11327.8,97.49,3.72,7.0,6.57,3.84
+Office Supplies,Notebook A5,76,13396.25,96.32,3.73,8.0,6.25,4.22
+Office Supplies,Pen Set Premium,76,12026.59,83.01,4.05,3.0,5.53,3.67
+Office Supplies,Standing Desk Converter,72,13131.86,110.32,3.99,6.0,5.35,4.11
+Office Supplies,Stapler Heavy Duty,83,14388.17,92.04,3.8,4.0,6.39,4.13
+Office Supplies,Sticky Notes Bulk,75,12803.43,84.7,4.06,15.0,5.33,4.45
+Office Supplies,Whiteboard Markers,69,12102.24,98.84,4.03,9.0,5.22,4.12
+Office Supplies,Wireless Mouse,84,13616.34,91.25,3.99,12.0,5.71,4.65
+Pet Supplies,Bird Cage Deluxe,83,4960.51,33.47,3.95,11.0,5.3,4.27
+Pet Supplies,Cat Litter Clumping,61,3231.83,32.22,3.83,7.0,4.67,4.46
+Pet Supplies,Chew Toy Set,81,4886.95,32.42,4.02,9.0,5.99,4.06
+Pet Supplies,Dog Food Premium 5kg,66,4522.48,34.38,3.92,8.0,6.82,4.23
+Pet Supplies,Dog Leash Retractable,69,4212.07,30.25,3.93,13.0,4.35,4.23
+Pet Supplies,Fish Tank 10L,69,4798.2,32.95,4.0,7.0,5.94,3.9
+Pet Supplies,Flea Collar,86,5601.57,32.14,3.99,8.0,6.16,4.0
+Pet Supplies,Interactive Cat Toy,69,3585.91,30.37,3.99,14.0,4.2,4.72
+Pet Supplies,Pet Carrier Soft,64,3435.74,33.27,3.83,9.0,3.98,4.86
+Pet Supplies,Pet Shampoo Natural,62,3689.58,32.46,3.6,13.0,4.19,4.11
+Sports & Outdoors,Cycling Gloves,158,12036.86,45.05,4.17,11.0,6.52,4.23
+Sports & Outdoors,Dumbbell Set 20kg,165,17252.42,51.72,3.97,6.0,5.61,4.24
+Sports & Outdoors,Foam Roller,164,14364.23,51.35,3.86,10.0,5.98,4.61
+Sports & Outdoors,Hiking Backpack,171,15495.98,48.65,4.03,9.0,4.77,4.06
+Sports & Outdoors,Jump Rope Speed,164,16132.2,49.28,3.97,7.0,4.05,4.25
+Sports & Outdoors,Pull-up Bar,146,12160.23,47.29,3.94,10.0,4.38,4.12
+Sports & Outdoors,Resistance Bands Set,177,14944.96,44.44,4.0,7.0,5.2,4.12
+Sports & Outdoors,Tennis Racket,166,15726.21,50.57,4.12,7.0,5.66,4.39
+Sports & Outdoors,Water Bottle 1L,179,16031.93,45.02,4.01,8.0,4.5,4.04
+Sports & Outdoors,Yoga Mat Non-slip,184,18170.84,47.63,3.83,7.0,4.95,3.91
+Toys & Games,Action Figure Set,149,11069.7,41.3,4.03,5.0,5.81,3.91
+Toys & Games,Art Supply Kit,141,10281.37,39.59,4.07,13.0,4.82,4.54
+Toys & Games,Board Game Strategy,156,10163.37,37.52,3.98,10.0,6.38,4.03
+Toys & Games,Card Game Party,144,12879.79,43.62,4.14,9.0,4.27,4.38
+Toys & Games,Educational Tablet,140,11051.22,43.32,4.07,9.0,6.07,3.81
+Toys & Games,LEGO City Set,119,8199.64,41.22,4.06,10.0,5.55,4.31
+Toys & Games,Outdoor Frisbee,159,12873.72,42.44,4.1,9.0,6.73,3.97
+Toys & Games,Puzzle 1000pc,155,11734.71,40.54,3.97,6.0,5.77,4.27
+Toys & Games,Remote Control Car,154,11772.91,42.06,4.07,11.0,5.71,4.59
+Toys & Games,Stuffed Animal Bear,123,8728.62,41.19,3.91,7.0,5.85,4.11
+Travel & Luggage,Compression Socks,47,9258.98,104.24,4.16,9.0,5.11,3.62
+Travel & Luggage,Eye Mask Sleep,38,6646.17,98.38,4.16,8.0,4.08,3.92
+Travel & Luggage,"Hardshell Luggage 24""",52,10019.31,103.55,4.01,10.0,4.52,4.0
+Travel & Luggage,Money Belt,46,8629.42,100.35,4.21,17.0,4.67,4.09
+Travel & Luggage,Packing Cubes 6-Set,51,7264.39,88.31,4.03,10.0,6.57,4.53
+Travel & Luggage,Passport Holder RFID,65,10366.23,89.34,4.03,8.0,3.31,3.82
+Travel & Luggage,Portable Scale,50,7354.59,92.78,3.82,16.0,5.0,4.12
+Travel & Luggage,Toiletry Bag,52,9863.07,101.59,4.08,8.0,6.54,3.96
+Travel & Luggage,Travel Adapter Universal,42,6818.82,88.5,4.06,7.0,6.43,3.43
+Travel & Luggage,Travel Pillow Memory Foam,41,8272.76,103.51,3.77,7.0,5.98,3.73

@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Database
+backend/saas.db
+*.db
+*.sqlite
+*.sqlite3
+
+# Uploaded user data
+backend/uploads/
+backend/uploads/*
+!backend/uploads/.gitkeep
+
+# Local files
+.DS_Store
+Thumbs.db
